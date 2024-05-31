@@ -1,3 +1,13 @@
+# info about the project
+MERN stack used in the project.
+MongoDB Atlas used for remote server usage also.
+database name - freecodecamp; 2 collections - list of courses and users
+authentication of user done and JWT library used to authenticate logged in user wuth the AuthToken stored in local Storage (expiry of 10 minutes)
+Express.js used to make routes and post the requests.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
